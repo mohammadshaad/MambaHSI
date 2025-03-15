@@ -1,9 +1,5 @@
 # MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification
-<div align="center">
 
-[Yapeng Li](https://scholar.google.com/citations?user=kkuoU8oAAAAJ&hl=zh-CN), [Yong Luo](https://scholar.google.com/citations?user=zb1oVGIAAAAJ&hl=zh-CN&oi=ao), [Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=zh-CN&oi=ao), [Zengmao Wang*](https://scholar.google.com/citations?user=tTqiJpQAAAAJ&hl=zh-CN&oi=ao), [Bo Du*](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=zh-CN)
-
-</div>
 
 <div align="center">
 <a href='https://ieeexplore.ieee.org/abstract/document/10604894'><img src='https://img.shields.io/badge/TGRS-Paper-blue'></a>
@@ -94,23 +90,3 @@ HongHu Results
 </font></summary>
 <img src="./images/HongHu_results.png" alt="HongHu" width="100%">
 </details>
-
-## Citation	
-
-If you find this project helpful for your research, please kindly consider citing our paper and give this repo ⭐️: 
-
-```
-@ARTICLE{MambaHSI_TGRS24,
-  author={Li, Yapeng and Luo, Yong and Zhang, Lefei and Wang, Zengmao and Du, Bo},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-16},
-  keywords={Hyperspectral Image Classification;Mamba;State Space Models;Transformer},
-  doi={10.1109/TGRS.2024.3430985}}
-```
-
-## Acknowledgement
-Part of our MambaHSI framework is referred to [CVSSN](https://github.com/lms-07/CVSSN.git) and [SSFCN](https://github.com/YonghaoXu/SSFCN.git). We thank all the contributors for open-sourcing.
